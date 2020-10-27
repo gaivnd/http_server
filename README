@@ -1,1 +1,3 @@
 go call c lib
+mkdir build;cd build
+cmake ..;make
